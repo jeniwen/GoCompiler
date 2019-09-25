@@ -2,9 +2,9 @@
 # GoLite Compiler
 
 ## Group 09 members
-- Nathan Sandum 260716168
-- Jiawen Wang 260683456
-- Grégoire Moreau 260874685
+- Nathan Sandum 
+- Jiawen Wang 
+- Grégoire Moreau 
 
 ### Scripts (from template)
 * `programs`: Test programs are organized by compilation phase and by expected result. Valid programs should output `OK` and status code `0`, while invalid programs should output `Error: <description>` and status code `1`.
